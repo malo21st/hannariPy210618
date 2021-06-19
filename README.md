@@ -1,5 +1,6 @@
 ## hannariPy210618
-# はんなりPython #41 「Google ColabでWebアプリ開発ハンズオン」
+# はんなりPython #41  
+「Google ColabでWebアプリ開発ハンズオン」
 
 - 2021/06/18(金) 21:00 〜 23:00
 - オンライン
